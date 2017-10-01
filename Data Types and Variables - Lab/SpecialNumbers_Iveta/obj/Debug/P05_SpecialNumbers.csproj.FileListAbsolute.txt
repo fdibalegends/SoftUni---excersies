@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\bin\Debug\P05_SpecialNumbers.exe.config
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\bin\Debug\P05_SpecialNumbers.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\bin\Debug\P05_SpecialNumbers.pdb
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\obj\Debug\P05_SpecialNumbers.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\obj\Debug\P05_SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\obj\Debug\P05_SpecialNumbers.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P05_SpecialNumbers\obj\Debug\P05_SpecialNumbers.pdb

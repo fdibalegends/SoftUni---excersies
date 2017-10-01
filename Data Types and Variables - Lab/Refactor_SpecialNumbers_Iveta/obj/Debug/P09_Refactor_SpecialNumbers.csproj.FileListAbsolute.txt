@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P09_Refactor_SpecialNumbers\bin\Debug\P09_Refactor_SpecialNumbers.exe.config
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P09_Refactor_SpecialNumbers\bin\Debug\P09_Refactor_SpecialNumbers.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P09_Refactor_SpecialNumbers\bin\Debug\P09_Refactor_SpecialNumbers.pdb
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P09_Refactor_SpecialNumbers\obj\Debug\P09_Refactor_SpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P09_Refactor_SpecialNumbers\obj\Debug\P09_Refactor_SpecialNumbers.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P09_Refactor_SpecialNumbers\obj\Debug\P09_Refactor_SpecialNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P07_Greeting\bin\Debug\P07_Greeting.exe.config
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P07_Greeting\bin\Debug\P07_Greeting.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P07_Greeting\bin\Debug\P07_Greeting.pdb
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P07_Greeting\obj\Debug\P07_Greeting.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P07_Greeting\obj\Debug\P07_Greeting.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P07_Greeting\obj\Debug\P07_Greeting.pdb

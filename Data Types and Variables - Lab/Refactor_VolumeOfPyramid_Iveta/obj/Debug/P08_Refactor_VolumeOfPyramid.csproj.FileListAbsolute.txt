@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P08_Refactor_VolumeOfPyramid\bin\Debug\P08_Refactor_VolumeOfPyramid.exe.config
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P08_Refactor_VolumeOfPyramid\bin\Debug\P08_Refactor_VolumeOfPyramid.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P08_Refactor_VolumeOfPyramid\bin\Debug\P08_Refactor_VolumeOfPyramid.pdb
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P08_Refactor_VolumeOfPyramid\obj\Debug\P08_Refactor_VolumeOfPyramid.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P08_Refactor_VolumeOfPyramid\obj\Debug\P08_Refactor_VolumeOfPyramid.exe
+C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P08_Refactor_VolumeOfPyramid\obj\Debug\P08_Refactor_VolumeOfPyramid.pdb

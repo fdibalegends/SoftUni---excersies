@@ -1,7 +1,0 @@
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\bin\Debug\P04_Elevator.exe.config
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\bin\Debug\P04_Elevator.exe
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\bin\Debug\P04_Elevator.pdb
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\obj\Debug\P04_Elevator.csprojResolveAssemblyReference.cache
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\obj\Debug\P04_Elevator.csproj.CoreCompileInputs.cache
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\obj\Debug\P04_Elevator.exe
-C:\Users\User\Desktop\Tech Module - C#\Lecture 4\DataTypesAndVariables\P04_Elevator\obj\Debug\P04_Elevator.pdb
