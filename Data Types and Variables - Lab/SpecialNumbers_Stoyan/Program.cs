@@ -10,7 +10,7 @@ namespace SpecialNumbers_Stoyan
     {
         static void Main(string[] args)
         {
-
+            
         }
     }
 }
