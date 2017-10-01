@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\bin\Debug\ReverseCharacters_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\bin\Debug\ReverseCharacters_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\bin\Debug\ReverseCharacters_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\obj\Debug\ReverseCharacters_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\obj\Debug\ReverseCharacters_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\obj\Debug\ReverseCharacters_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ReverseCharacters_Stoyan\obj\Debug\ReverseCharacters_Stoyan.pdb

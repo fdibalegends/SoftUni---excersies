@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\bin\Debug\VariableInHexFormat_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\bin\Debug\VariableInHexFormat_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\bin\Debug\VariableInHexFormat_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\obj\Debug\VariableInHexFormat_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\obj\Debug\VariableInHexFormat_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\obj\Debug\VariableInHexFormat_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VariableInHexFormat_Stoyan\obj\Debug\VariableInHexFormat_Stoyan.pdb

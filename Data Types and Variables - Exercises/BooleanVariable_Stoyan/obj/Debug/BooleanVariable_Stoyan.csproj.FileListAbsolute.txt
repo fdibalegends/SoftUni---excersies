@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\BooleanVariable_Stoyan\bin\Debug\BooleanVariable_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\BooleanVariable_Stoyan\bin\Debug\BooleanVariable_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\BooleanVariable_Stoyan\bin\Debug\BooleanVariable_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\BooleanVariable_Stoyan\obj\Debug\BooleanVariable_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\BooleanVariable_Stoyan\obj\Debug\BooleanVariable_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\BooleanVariable_Stoyan\obj\Debug\BooleanVariable_Stoyan.pdb
