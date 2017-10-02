@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\bin\Debug\FastPrimeCheckerRefactor_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\bin\Debug\FastPrimeCheckerRefactor_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\bin\Debug\FastPrimeCheckerRefactor_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\obj\Debug\FastPrimeCheckerRefactor_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\obj\Debug\FastPrimeCheckerRefactor_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\obj\Debug\FastPrimeCheckerRefactor_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\FastPrimeCheckerRefactor_Stoyan\obj\Debug\FastPrimeCheckerRefactor_Stoyan.pdb

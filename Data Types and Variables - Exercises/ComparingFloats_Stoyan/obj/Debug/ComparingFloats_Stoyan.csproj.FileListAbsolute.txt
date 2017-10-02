@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\bin\Debug\ComparingFloats_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\bin\Debug\ComparingFloats_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\bin\Debug\ComparingFloats_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\obj\Debug\ComparingFloats_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\obj\Debug\ComparingFloats_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\obj\Debug\ComparingFloats_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ComparingFloats_Stoyan\obj\Debug\ComparingFloats_Stoyan.csprojResolveAssemblyReference.cache

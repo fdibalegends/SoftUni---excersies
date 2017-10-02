@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\bin\Debug\RectangleProperties_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\bin\Debug\RectangleProperties_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\bin\Debug\RectangleProperties_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\obj\Debug\RectangleProperties_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\obj\Debug\RectangleProperties_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\obj\Debug\RectangleProperties_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\RectangleProperties_Stoyan\obj\Debug\RectangleProperties_Stoyan.pdb

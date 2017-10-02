@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VowelOrDigit_Stoyan\bin\Debug\VowelOrDigit_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VowelOrDigit_Stoyan\bin\Debug\VowelOrDigit_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VowelOrDigit_Stoyan\bin\Debug\VowelOrDigit_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VowelOrDigit_Stoyan\obj\Debug\VowelOrDigit_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VowelOrDigit_Stoyan\obj\Debug\VowelOrDigit_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\VowelOrDigit_Stoyan\obj\Debug\VowelOrDigit_Stoyan.pdb

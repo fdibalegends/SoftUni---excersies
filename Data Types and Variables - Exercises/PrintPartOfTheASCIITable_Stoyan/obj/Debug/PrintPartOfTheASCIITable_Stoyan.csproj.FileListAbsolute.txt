@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\PrintPartOfTheASCIITable_Stoyan\bin\Debug\PrintPartOfTheASCIITable_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\PrintPartOfTheASCIITable_Stoyan\bin\Debug\PrintPartOfTheASCIITable_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\PrintPartOfTheASCIITable_Stoyan\bin\Debug\PrintPartOfTheASCIITable_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\PrintPartOfTheASCIITable_Stoyan\obj\Debug\PrintPartOfTheASCIITable_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\PrintPartOfTheASCIITable_Stoyan\obj\Debug\PrintPartOfTheASCIITable_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\PrintPartOfTheASCIITable_Stoyan\obj\Debug\PrintPartOfTheASCIITable_Stoyan.pdb

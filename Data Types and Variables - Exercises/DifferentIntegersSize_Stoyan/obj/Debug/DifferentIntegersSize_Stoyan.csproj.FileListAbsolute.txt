@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\obj\Debug\DifferentIntegersSize_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\obj\Debug\DifferentIntegersSize_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\bin\Debug\DifferentIntegersSize_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\bin\Debug\DifferentIntegersSize_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\bin\Debug\DifferentIntegersSize_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\obj\Debug\DifferentIntegersSize_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\DifferentIntegersSize_Stoyan\obj\Debug\DifferentIntegersSize_Stoyan.pdb
