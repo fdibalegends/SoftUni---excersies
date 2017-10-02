@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\bin\Debug\ConvertSpeedUnits_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\bin\Debug\ConvertSpeedUnits_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\bin\Debug\ConvertSpeedUnits_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\obj\Debug\ConvertSpeedUnits_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\obj\Debug\ConvertSpeedUnits_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\obj\Debug\ConvertSpeedUnits_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Data Types and Variables - Exercises\ConvertSpeedUnits_Stoyan\obj\Debug\ConvertSpeedUnits_Stoyan.pdb
