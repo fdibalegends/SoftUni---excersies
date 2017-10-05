@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MathPower_Stoyan\bin\Debug\MathPower_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MathPower_Stoyan\bin\Debug\MathPower_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MathPower_Stoyan\bin\Debug\MathPower_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MathPower_Stoyan\obj\Debug\MathPower_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MathPower_Stoyan\obj\Debug\MathPower_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MathPower_Stoyan\obj\Debug\MathPower_Stoyan.pdb

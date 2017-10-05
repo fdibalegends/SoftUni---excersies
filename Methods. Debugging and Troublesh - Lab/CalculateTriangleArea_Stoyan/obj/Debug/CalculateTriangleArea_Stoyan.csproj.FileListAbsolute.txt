@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\CalculateTriangleArea_Stoyan\bin\Debug\CalculateTriangleArea_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\CalculateTriangleArea_Stoyan\bin\Debug\CalculateTriangleArea_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\CalculateTriangleArea_Stoyan\bin\Debug\CalculateTriangleArea_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\CalculateTriangleArea_Stoyan\obj\Debug\CalculateTriangleArea_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\CalculateTriangleArea_Stoyan\obj\Debug\CalculateTriangleArea_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\CalculateTriangleArea_Stoyan\obj\Debug\CalculateTriangleArea_Stoyan.pdb
