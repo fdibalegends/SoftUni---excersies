@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlankReceipt_Stoyan", "BlankReceipt_Stoyan\BlankReceipt_Stoyan.csproj", "{27195CD2-E79B-4075-B7FB-9BDB8D237854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Stoyan", "Demo_Stoyan\Demo_Stoyan.csproj", "{181B0542-5A95-4763-942C-A3CBC62B7D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignOfIntegerNumber_Stoyan", "SignOfIntegerNumber_Stoyan\SignOfIntegerNumber_Stoyan.csproj", "{39BBBA01-1116-4307-A09B-BB2636ABA358}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintingTriangle_Stoyan", "PrintingTriangle_Stoyan\PrintingTriangle_Stoyan.csproj", "{B35A1E13-33BA-419A-B047-A94DC6028A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawAFilledSquare_Stoyan", "DrawAFilledSquare_Stoyan\DrawAFilledSquare_Stoyan.csproj", "{E1E083BB-2E29-4EA0-AE7A-7C8826FCECFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27195CD2-E79B-4075-B7FB-9BDB8D237854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27195CD2-E79B-4075-B7FB-9BDB8D237854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27195CD2-E79B-4075-B7FB-9BDB8D237854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27195CD2-E79B-4075-B7FB-9BDB8D237854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{181B0542-5A95-4763-942C-A3CBC62B7D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{181B0542-5A95-4763-942C-A3CBC62B7D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{181B0542-5A95-4763-942C-A3CBC62B7D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{181B0542-5A95-4763-942C-A3CBC62B7D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39BBBA01-1116-4307-A09B-BB2636ABA358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39BBBA01-1116-4307-A09B-BB2636ABA358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39BBBA01-1116-4307-A09B-BB2636ABA358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39BBBA01-1116-4307-A09B-BB2636ABA358}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B35A1E13-33BA-419A-B047-A94DC6028A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35A1E13-33BA-419A-B047-A94DC6028A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35A1E13-33BA-419A-B047-A94DC6028A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35A1E13-33BA-419A-B047-A94DC6028A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E083BB-2E29-4EA0-AE7A-7C8826FCECFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E083BB-2E29-4EA0-AE7A-7C8826FCECFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E083BB-2E29-4EA0-AE7A-7C8826FCECFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E083BB-2E29-4EA0-AE7A-7C8826FCECFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7144D82F-54DE-46DD-99E4-55B30EE85E80}
+	EndGlobalSection
+EndGlobal

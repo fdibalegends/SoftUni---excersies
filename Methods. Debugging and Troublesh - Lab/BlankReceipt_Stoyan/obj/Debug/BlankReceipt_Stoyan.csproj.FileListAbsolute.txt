@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\bin\Debug\BlankReceipt_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\bin\Debug\BlankReceipt_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\bin\Debug\BlankReceipt_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\obj\Debug\BlankReceipt_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\obj\Debug\BlankReceipt_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\obj\Debug\BlankReceipt_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\BlankReceipt_Stoyan\obj\Debug\BlankReceipt_Stoyan.pdb

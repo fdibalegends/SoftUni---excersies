@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\DrawAFilledSquare_Stoyan\bin\Debug\DrawAFilledSquare_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\DrawAFilledSquare_Stoyan\bin\Debug\DrawAFilledSquare_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\DrawAFilledSquare_Stoyan\bin\Debug\DrawAFilledSquare_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\DrawAFilledSquare_Stoyan\obj\Debug\DrawAFilledSquare_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\DrawAFilledSquare_Stoyan\obj\Debug\DrawAFilledSquare_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\DrawAFilledSquare_Stoyan\obj\Debug\DrawAFilledSquare_Stoyan.pdb
