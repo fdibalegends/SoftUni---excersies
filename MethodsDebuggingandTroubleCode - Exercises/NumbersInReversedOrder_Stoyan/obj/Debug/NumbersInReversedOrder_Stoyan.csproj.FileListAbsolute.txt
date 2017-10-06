@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\NumbersInReversedOrder_Stoyan\bin\Debug\NumbersInReversedOrder_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\NumbersInReversedOrder_Stoyan\bin\Debug\NumbersInReversedOrder_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\NumbersInReversedOrder_Stoyan\bin\Debug\NumbersInReversedOrder_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\NumbersInReversedOrder_Stoyan\obj\Debug\NumbersInReversedOrder_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\NumbersInReversedOrder_Stoyan\obj\Debug\NumbersInReversedOrder_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\NumbersInReversedOrder_Stoyan\obj\Debug\NumbersInReversedOrder_Stoyan.pdb

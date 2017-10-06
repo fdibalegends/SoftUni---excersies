@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\EnglishNameOfTheLastDigit_Stoyan\bin\Debug\EnglishNameOfTheLastDigit_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\EnglishNameOfTheLastDigit_Stoyan\bin\Debug\EnglishNameOfTheLastDigit_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\EnglishNameOfTheLastDigit_Stoyan\bin\Debug\EnglishNameOfTheLastDigit_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\EnglishNameOfTheLastDigit_Stoyan\obj\Debug\EnglishNameOfTheLastDigit_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\EnglishNameOfTheLastDigit_Stoyan\obj\Debug\EnglishNameOfTheLastDigit_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\EnglishNameOfTheLastDigit_Stoyan\obj\Debug\EnglishNameOfTheLastDigit_Stoyan.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\bin\Debug\HelloName_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\bin\Debug\HelloName_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\bin\Debug\HelloName_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\obj\Debug\HelloName_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\obj\Debug\HelloName_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\obj\Debug\HelloName_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\HelloName_Stoyan\obj\Debug\HelloName_Stoyan.pdb
