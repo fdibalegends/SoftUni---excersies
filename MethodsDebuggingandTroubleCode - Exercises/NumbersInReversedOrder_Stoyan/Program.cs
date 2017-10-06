@@ -64,7 +64,7 @@ namespace NumbersInReversedOrder_Stoyan
             else if(decimal.TryParse(input, out num1))
             {
                 decimal printing = ReverseNumber(num1);
-                string proba = printing.ToString("#.######################");
+                string proba = printing.ToString("#.#######################");
                 Console.WriteLine(proba);
 
             }
