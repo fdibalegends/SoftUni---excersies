@@ -8,9 +8,9 @@ namespace NumbersInReversedOrder_Stoyan
 {
     class Program
     {
+
         static decimal ReverseNumber(decimal num)
         {
-           
             decimal result = 0;
             int count = 0;
             
@@ -20,8 +20,7 @@ namespace NumbersInReversedOrder_Stoyan
                 num = num / 10;
             }
             while (num != ((int)num))
-            {
-                
+            {  
                 num = num * 10;
             }
             while (num > 0)
@@ -39,6 +38,7 @@ namespace NumbersInReversedOrder_Stoyan
 
             
         }
+
         static int ReverseNumberInt(int num)
         {
             int result = 0;
@@ -49,6 +49,7 @@ namespace NumbersInReversedOrder_Stoyan
             }
             return result;
         }
+
         static void Main(string[] args)
         {
             string input = Console.ReadLine();
@@ -66,11 +67,7 @@ namespace NumbersInReversedOrder_Stoyan
                 decimal printing = ReverseNumber(num1);
                 string proba = printing.ToString("#.#######################");
                 Console.WriteLine(proba);
-
             }
-            
-         
-            
         }
     }
 }
