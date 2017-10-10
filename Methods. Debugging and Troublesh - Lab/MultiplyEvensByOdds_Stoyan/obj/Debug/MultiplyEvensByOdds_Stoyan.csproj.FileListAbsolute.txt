@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\bin\Debug\MultiplyEvensByOdds_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\bin\Debug\MultiplyEvensByOdds_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\bin\Debug\MultiplyEvensByOdds_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\obj\Debug\MultiplyEvensByOdds_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\obj\Debug\MultiplyEvensByOdds_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\obj\Debug\MultiplyEvensByOdds_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\MultiplyEvensByOdds_Stoyan\obj\Debug\MultiplyEvensByOdds_Stoyan.csprojResolveAssemblyReference.cache

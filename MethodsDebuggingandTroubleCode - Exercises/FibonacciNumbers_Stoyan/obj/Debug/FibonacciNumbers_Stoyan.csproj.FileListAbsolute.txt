@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\bin\Debug\FibonacciNumbers_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\bin\Debug\FibonacciNumbers_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\bin\Debug\FibonacciNumbers_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\obj\Debug\FibonacciNumbers_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\obj\Debug\FibonacciNumbers_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\obj\Debug\FibonacciNumbers_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\MethodsDebuggingandTroubleCode - Exercises\FibonacciNumbers_Stoyan\obj\Debug\FibonacciNumbers_Stoyan.pdb

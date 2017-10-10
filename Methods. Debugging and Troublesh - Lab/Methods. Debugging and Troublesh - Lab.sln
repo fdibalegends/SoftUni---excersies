@@ -21,6 +21,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathPower_Stoyan", "MathPow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreaterOfTwoValues_Stoyan", "GreaterOfTwoValues_Stoyan\GreaterOfTwoValues_Stoyan.csproj", "{B20E89F1-FB7D-4BA2-BE3E-27580CF49182}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplyEvensByOdds_Stoyan", "MultiplyEvensByOdds_Stoyan\MultiplyEvensByOdds_Stoyan.csproj", "{401C68F8-0476-4B59-A2C6-3395254372DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HolidaysBetweenTwoDates_Stoyan", "HolidaysBetweenTwoDates_Stoyan\HolidaysBetweenTwoDates_Stoyan.csproj", "{F8D0024C-C473-4ED0-A464-C60922B26C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceChangeAlert_Stoyan", "PriceChangeAlert_Stoyan\PriceChangeAlert_Stoyan.csproj", "{8EA25AC7-FDD8-4911-B02A-5FE44BE0B7EB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +69,18 @@ Global
 		{B20E89F1-FB7D-4BA2-BE3E-27580CF49182}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B20E89F1-FB7D-4BA2-BE3E-27580CF49182}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B20E89F1-FB7D-4BA2-BE3E-27580CF49182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401C68F8-0476-4B59-A2C6-3395254372DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401C68F8-0476-4B59-A2C6-3395254372DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401C68F8-0476-4B59-A2C6-3395254372DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401C68F8-0476-4B59-A2C6-3395254372DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8D0024C-C473-4ED0-A464-C60922B26C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8D0024C-C473-4ED0-A464-C60922B26C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8D0024C-C473-4ED0-A464-C60922B26C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8D0024C-C473-4ED0-A464-C60922B26C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EA25AC7-FDD8-4911-B02A-5FE44BE0B7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EA25AC7-FDD8-4911-B02A-5FE44BE0B7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EA25AC7-FDD8-4911-B02A-5FE44BE0B7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EA25AC7-FDD8-4911-B02A-5FE44BE0B7EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

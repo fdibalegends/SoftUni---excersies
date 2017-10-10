@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\obj\Debug\ReverseAnArrayOfIntegers_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\obj\Debug\ReverseAnArrayOfIntegers_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\bin\Debug\ReverseAnArrayOfIntegers_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\bin\Debug\ReverseAnArrayOfIntegers_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\bin\Debug\ReverseAnArrayOfIntegers_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\obj\Debug\ReverseAnArrayOfIntegers_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\ReverseAnArrayOfIntegers_Stoyan\obj\Debug\ReverseAnArrayOfIntegers_Stoyan.pdb

@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\DayOfWeek_Stoyan\bin\Debug\DayOfWeek_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\DayOfWeek_Stoyan\bin\Debug\DayOfWeek_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\DayOfWeek_Stoyan\bin\Debug\DayOfWeek_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\DayOfWeek_Stoyan\obj\Debug\DayOfWeek_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\DayOfWeek_Stoyan\obj\Debug\DayOfWeek_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\DayOfWeek_Stoyan\obj\Debug\DayOfWeek_Stoyan.pdb

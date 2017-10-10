@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishNameOfTheLastDigit_S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersInReversedOrder_Stoyan", "NumbersInReversedOrder_Stoyan\NumbersInReversedOrder_Stoyan.csproj", "{35C73608-8235-40EE-8B1D-25AA08C991A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers_Stoyan", "FibonacciNumbers_Stoyan\FibonacciNumbers_Stoyan.csproj", "{A294779C-1D8E-49BD-86D2-EA40CADEDC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker_Stoyan", "PrimeChecker_Stoyan\PrimeChecker_Stoyan.csproj", "{93384868-0C92-4788-AE7F-732979ED89F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInGivenRange_Stoyan", "PrimesInGivenRange_Stoyan\PrimesInGivenRange_Stoyan.csproj", "{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{35C73608-8235-40EE-8B1D-25AA08C991A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35C73608-8235-40EE-8B1D-25AA08C991A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35C73608-8235-40EE-8B1D-25AA08C991A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A294779C-1D8E-49BD-86D2-EA40CADEDC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A294779C-1D8E-49BD-86D2-EA40CADEDC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A294779C-1D8E-49BD-86D2-EA40CADEDC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A294779C-1D8E-49BD-86D2-EA40CADEDC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93384868-0C92-4788-AE7F-732979ED89F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93384868-0C92-4788-AE7F-732979ED89F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93384868-0C92-4788-AE7F-732979ED89F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93384868-0C92-4788-AE7F-732979ED89F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

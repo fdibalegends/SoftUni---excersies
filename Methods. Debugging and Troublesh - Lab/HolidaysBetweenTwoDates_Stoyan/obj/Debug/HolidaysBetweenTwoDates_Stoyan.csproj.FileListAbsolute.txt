@@ -1,0 +1,6 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\HolidaysBetweenTwoDates_Stoyan\bin\Debug\HolidaysBetweenTwoDates_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\HolidaysBetweenTwoDates_Stoyan\bin\Debug\HolidaysBetweenTwoDates_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\HolidaysBetweenTwoDates_Stoyan\bin\Debug\HolidaysBetweenTwoDates_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\HolidaysBetweenTwoDates_Stoyan\obj\Debug\HolidaysBetweenTwoDates_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\HolidaysBetweenTwoDates_Stoyan\obj\Debug\HolidaysBetweenTwoDates_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Methods. Debugging and Troublesh - Lab\HolidaysBetweenTwoDates_Stoyan\obj\Debug\HolidaysBetweenTwoDates_Stoyan.pdb

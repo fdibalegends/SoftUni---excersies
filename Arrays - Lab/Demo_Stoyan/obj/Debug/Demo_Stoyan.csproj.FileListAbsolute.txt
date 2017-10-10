@@ -1,0 +1,7 @@
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\bin\Debug\Demo_Stoyan.exe.config
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\bin\Debug\Demo_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\bin\Debug\Demo_Stoyan.pdb
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\obj\Debug\Demo_Stoyan.csprojResolveAssemblyReference.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\obj\Debug\Demo_Stoyan.csproj.CoreCompileInputs.cache
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\obj\Debug\Demo_Stoyan.exe
+C:\Users\HP Inc\source\repos\SoftUni---excersies\Arrays - Lab\Demo_Stoyan\obj\Debug\Demo_Stoyan.pdb
