@@ -10,24 +10,16 @@ namespace DayOfWeek_Stoyan
     {
         static void Main(string[] args)
         {
-            string[] daysOfWeek = new string[7];
-            daysOfWeek[0] = "Monday";
-            daysOfWeek[1] = "Tuesday";
-            daysOfWeek[2] = "Wednesday";
-            daysOfWeek[3] = "Thursday";
-            daysOfWeek[4] = "Friday";
-            daysOfWeek[5] = "Saturday";
-            daysOfWeek[6] = "Sunday";
+            int numDay = int.Parse(Console.ReadLine());
 
-            int day = int.Parse(Console.ReadLine());
-
-            if (day < 1 || day > 7)
+            string[] days = new string[] {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday" };
+            if (numDay > 0 && numDay <= 7)
             {
-                Console.WriteLine("Invalid Day!");
+                Console.WriteLine(days[numDay - 1]);
             }
             else
             {
-                Console.WriteLine(daysOfWeek[day-1]);
+                Console.WriteLine("Invalid Day");
             }
         }
     }

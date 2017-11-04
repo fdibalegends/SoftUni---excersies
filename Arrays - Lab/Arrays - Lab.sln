@@ -11,6 +11,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseAnArrayOfIntegers_St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LastKNumbersSums_Stoyan", "LastKNumbersSums_Stoyan\LastKNumbersSums_Stoyan.csproj", "{FA001A70-4365-4591-936A-EA927C093E3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleSum_Stoyan", "TripleSum_Stoyan\TripleSum_Stoyan.csproj", "{C81E47DC-E23C-4DB8-9206-B2A83FAFEC00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingNumbersAwayFromZero_Stoyan", "RoundingNumbersAwayFromZero_Stoyan\RoundingNumbersAwayFromZero_Stoyan.csproj", "{44ECF7F7-C1BD-473C-BF24-6DC6BBFDD721}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoundingNumbersAwayFromZero2_Stoyan", "RoundingNumbersAwayFromZero2_Stoyan\RoundingNumbersAwayFromZero2_Stoyan.csproj", "{361F8CD4-F08D-4D26-9556-60447BBBD545}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArrayOfStrings_Stoyan", "ReverseArrayOfStrings_Stoyan\ReverseArrayOfStrings_Stoyan.csproj", "{8B5E46C1-D5A1-430B-AFE2-E4E073772EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewDemo_Stoyan", "NewDemo_Stoyan\NewDemo_Stoyan.csproj", "{A82F2AFE-3F84-45F0-916F-807344FE4976}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +43,26 @@ Global
 		{FA001A70-4365-4591-936A-EA927C093E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA001A70-4365-4591-936A-EA927C093E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA001A70-4365-4591-936A-EA927C093E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C81E47DC-E23C-4DB8-9206-B2A83FAFEC00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C81E47DC-E23C-4DB8-9206-B2A83FAFEC00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C81E47DC-E23C-4DB8-9206-B2A83FAFEC00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C81E47DC-E23C-4DB8-9206-B2A83FAFEC00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44ECF7F7-C1BD-473C-BF24-6DC6BBFDD721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44ECF7F7-C1BD-473C-BF24-6DC6BBFDD721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44ECF7F7-C1BD-473C-BF24-6DC6BBFDD721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44ECF7F7-C1BD-473C-BF24-6DC6BBFDD721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{361F8CD4-F08D-4D26-9556-60447BBBD545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{361F8CD4-F08D-4D26-9556-60447BBBD545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{361F8CD4-F08D-4D26-9556-60447BBBD545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{361F8CD4-F08D-4D26-9556-60447BBBD545}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B5E46C1-D5A1-430B-AFE2-E4E073772EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B5E46C1-D5A1-430B-AFE2-E4E073772EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B5E46C1-D5A1-430B-AFE2-E4E073772EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B5E46C1-D5A1-430B-AFE2-E4E073772EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82F2AFE-3F84-45F0-916F-807344FE4976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82F2AFE-3F84-45F0-916F-807344FE4976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82F2AFE-3F84-45F0-916F-807344FE4976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82F2AFE-3F84-45F0-916F-807344FE4976}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

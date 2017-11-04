@@ -10,20 +10,18 @@ namespace ReverseAnArrayOfIntegers_Stoyan
     {
         static void Main(string[] args)
         {
-            int index = int.Parse(Console.ReadLine());
+            int num = int.Parse(Console.ReadLine());
+            int[] arr = new int[num];
 
-            int[] collection = new int[index];
-
-            for (int i = 0; i < collection.Length; i++)
+            for (int i = 0; i < num; i++)
             {
-                collection[i] = int.Parse(Console.ReadLine());
+                arr[i] = int.Parse(Console.ReadLine());
             }
-
-            for (int k = 0; k < collection.Length; k++)
+            for (int k = arr.Length-1; k >= 0; k--)
             {
-                Console.Write(collection[index-1] + " ");
-                index--;
+                Console.Write(arr[k] + " ");
             }
+            Console.WriteLine();
         }
     }
 }

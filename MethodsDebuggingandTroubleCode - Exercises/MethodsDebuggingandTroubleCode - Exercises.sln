@@ -17,6 +17,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeChecker_Stoyan", "Prim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimesInGivenRange_Stoyan", "PrimesInGivenRange_Stoyan\PrimesInGivenRange_Stoyan.csproj", "{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint_Stoyan", "CenterPoint_Stoyan\CenterPoint_Stoyan.csproj", "{40D0C4A0-257E-4EE0-BB56-F41AD0AE9179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongerLine_Stoyan", "LongerLine_Stoyan\LongerLine_Stoyan.csproj", "{835103C7-7553-4888-BA07-4C2952931ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubeProperties_Stoyan", "CubeProperties_Stoyan\CubeProperties_Stoyan.csproj", "{EEC0979D-7BC3-4680-BE3F-6DE00209F900}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +57,18 @@ Global
 		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BBC48FB-8F1A-402B-938B-B978BA28D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D0C4A0-257E-4EE0-BB56-F41AD0AE9179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D0C4A0-257E-4EE0-BB56-F41AD0AE9179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D0C4A0-257E-4EE0-BB56-F41AD0AE9179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D0C4A0-257E-4EE0-BB56-F41AD0AE9179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835103C7-7553-4888-BA07-4C2952931ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835103C7-7553-4888-BA07-4C2952931ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835103C7-7553-4888-BA07-4C2952931ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835103C7-7553-4888-BA07-4C2952931ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEC0979D-7BC3-4680-BE3F-6DE00209F900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEC0979D-7BC3-4680-BE3F-6DE00209F900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEC0979D-7BC3-4680-BE3F-6DE00209F900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEC0979D-7BC3-4680-BE3F-6DE00209F900}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
